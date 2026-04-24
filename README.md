@@ -76,6 +76,6 @@ This model can help financial institutions:
 
 ---
 
-## 👤 Sneha
+## 👤 Author
 
-[Your Name]
+Sneha
